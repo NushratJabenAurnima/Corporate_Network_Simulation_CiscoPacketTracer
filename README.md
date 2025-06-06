@@ -2,7 +2,7 @@
 
 This project simulates a modular, scalable network infrastructure for a large corporate campus using **Cisco Packet Tracer**. It connects five departments via OSPF routing, assigns IP addresses dynamically using DHCP, and centralizes DNS and web services. Browser-based mock systems simulate real corporate processes like onboarding, invoicing, and asset management.
 
-
+---
 
 ## 📌 Problem Overview
 
@@ -19,7 +19,7 @@ Each building maintains:
 - Router with OSPF for dynamic routing  
 - Access to centralized services hosted at the Headquarters (DNS and Web Server)
 
-
+---
 
 ## 🔹 Network Design Overview
 
@@ -29,7 +29,7 @@ Each building maintains:
 - **DNS & Web Server**: Located in Headquarters, accessible via `www.campusnet.com`
 - **Simulated Business Processes**: Web pages hosted internally for onboarding, asset tracking, and invoice handling
 
-
+---
 
 ## 🔹 Technologies & Tools
 
@@ -41,7 +41,7 @@ Each building maintains:
 | Services       | DNS, HTTP (Web)               |
 | Devices Used   | Routers, Switches, PCs        |
 
-
+---
 
 ## 🔹 Configuration Summary
 
@@ -56,7 +56,7 @@ Each building maintains:
 - Resolves `www.campusnet.com` internally
 - Hosts static HTML mock systems for testing
 
-
+---
 
 ## 🔹 Simulation Outcomes
 
@@ -69,7 +69,7 @@ Each building maintains:
 | Web page access from all LANs         | ✅ Success    |
 | Business process page load             | ✅ Verified   |
 
-
+---
 
 ## 🔹 Simulated Corporate Systems
 
