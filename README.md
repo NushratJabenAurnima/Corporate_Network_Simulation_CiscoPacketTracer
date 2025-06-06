@@ -4,7 +4,7 @@ This project simulates a modular, scalable network infrastructure for a large co
 
 
 
-## 📌 Problem Statement
+## 📌 Problem Overview
 
 As part of a corporate campus expansion, the objective was to design a robust and expandable network infrastructure across five distinct buildings:
 
@@ -31,7 +31,7 @@ Each building maintains:
 
 
 
-## 🛠 Technologies & Tools
+## 🔹 Technologies & Tools
 
 | Category       | Tool / Protocol               |
 |----------------|-------------------------------|
@@ -43,7 +43,7 @@ Each building maintains:
 
 
 
-## ⚙️ Configuration Summary
+## 🔹 Configuration Summary
 
 ### ✅ Router Setup
 - Configured with OSPF and proper interfaces for each building
@@ -58,7 +58,7 @@ Each building maintains:
 
 
 
-## 🔧 Simulation Outcomes
+## 🔹 Simulation Outcomes
 
 | Task                                   | Result       |
 |----------------------------------------|--------------|
@@ -71,10 +71,10 @@ Each building maintains:
 
 
 
-## 🖥 Simulated Corporate Systems
+## 🔹 Simulated Corporate Systems
 
-- 🧾 **Invoice Submission Portal**
-- 🧳 **Employee Onboarding Form**
-- 🛠 **Asset Management Dashboard**
+-  **Invoice Submission Portal**
+-  **Employee Onboarding Form**
+-  **Asset Management Dashboard**
 
 These were tested from LAN client PCs via browser interfaces.
