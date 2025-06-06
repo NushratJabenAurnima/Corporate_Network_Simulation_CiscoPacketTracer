@@ -1,4 +1,4 @@
-# Corporate Campus Network Simulation using Cisco Packet Tracer
+# 🌐 Corporate Campus Network Simulation using Cisco Packet Tracer
 
 This project simulates a modular, scalable network infrastructure for a large corporate campus using **Cisco Packet Tracer**. It connects five departments via OSPF routing, assigns IP addresses dynamically using DHCP, and centralizes DNS and web services. Browser-based mock systems simulate real corporate processes like onboarding, invoicing, and asset management.
 
@@ -21,7 +21,7 @@ Each building maintains:
 
 
 
-## 🌐 Network Design Overview
+## 🔹 Network Design Overview
 
 - **IP Scheme**: Class A addressing (e.g., 10.0.0.0 – 14.0.0.0)
 - **DHCP**: Configured in each LAN to automate IP assignment
